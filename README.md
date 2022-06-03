@@ -1,7 +1,7 @@
 # Text2HTML
 Add basic HTML tags on a simple text file.
 
-Generate <p>, <br>, <ul> and <li> tags depending on the source text.
+Generate P, BR, UL and LI tags depending on the source text.
 
 * An empty line close opened tags.
 * A new line open a paragraph or add a break on previous line.
