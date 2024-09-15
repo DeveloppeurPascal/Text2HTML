@@ -1,6 +1,6 @@
 # Text2HTML
 
-[This page in english.](README.md)
+[This page in English.](README.md)
 
 Ajoute des balises HTML de base à un simple fichier texte.
 
@@ -10,11 +10,17 @@ Génère des balises P, BR, UL et LI en fonction du texte source.
 * Une nouvelle ligne ouvre un paragraphe ou ajoute une coupure sur la ligne précédente.
 * Si une ligne commence par "- ", il s'agit d'un élément de liste. Le programme ouvre une liste non ordonnée et/ou un élément de liste.
 
-Ce programme est utilisé pour les TOC, les biographies et les descriptions sur le backoffice du site [Delphi Books] (https://delphi-books.com).
+Ce programme est utilisé pour les TOC, les biographies et les descriptions sur le backoffice du site [Delphi Books](https://delphi-books.com).
 
 Bien sûr, vous pouvez l'utiliser pour d'autres choses si vous le souhaitez.
 
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
+
+## Présentations et conférences
+
+### Twitch
+
+Suivez mes streams de développement de logiciels, jeux vidéo, applications mobiles et sites web sur [ma chaîne Twitch](https://www.twitch.tv/patrickpremartin) ou en rediffusion sur [Serial Streameur](https://serialstreameur.fr) la plupart du temps en français.
 
 ## Utiliser ce logiciel
 
@@ -28,7 +34,7 @@ Si vous utilisez régulièrement ce logiciel et en êtes satisfait vous êtes in
 
 [Acheter une licence](https://olfsoftware.lemonsqueezy.com/checkout/buy/1f6c9b07-cc9b-4e5c-89c7-c9a2f81661c4)
 
-Vous pouvez aussi [consulter le site du logiciel](EEE) pour en savoir plus sur son fonctionnement, accéder à des vidéos et articles, connaître les différentes versions disponibles et leurs fonctionnalités, contacter le support utilisateurs...
+Vous pouvez aussi [consulter le site du logiciel](https://text2html.olfsoftware.fr) pour en savoir plus sur son fonctionnement, accéder à des vidéos et articles, connaître les différentes versions disponibles et leurs fonctionnalités, contacter le support utilisateurs...
 
 ## Installation des codes sources
 
@@ -36,7 +42,7 @@ Pour télécharger ce dépôt de code il est recommandé de passer par "git" mai
 
 ## Licence d'utilisation de ce dépôt de code et de son contenu
 
-Ces codes sources sont distribués sous licence [AGPL 3.0 ou ultérieure] (https://choosealicense.com/licenses/agpl-3.0/).
+Ces codes sources sont distribués sous licence [AGPL 3.0 ou ultérieure](https://choosealicense.com/licenses/agpl-3.0/).
 
 Vous êtes globalement libre d'utiliser le contenu de ce dépôt de code n'importe où à condition :
 * d'en faire mention dans vos projets

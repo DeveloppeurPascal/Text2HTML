@@ -16,6 +16,12 @@ Of course you can use it for other things if you want.
 
 This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 
+## Talks and conferences
+
+### Twitch
+
+Follow my development streams of software, video games, mobile applications and websites on [my Twitch channel](https://www.twitch.tv/patrickpremartin) or as replays on [Serial Streameur](https://serialstreameur.fr) mostly in French.
+
 ## Using this software
 
 This software is available in a directly installable or executable production version for Windows and macOS. It is distributed as shareware.
@@ -28,7 +34,7 @@ If you use this software regularly and are satisfied with it, you are invited to
 
 [Buy a license](https://olfsoftware.lemonsqueezy.com/checkout/buy/1f6c9b07-cc9b-4e5c-89c7-c9a2f81661c4)
 
-You can also [visit the software website](EEE) to find out more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
+You can also [visit the software website](https://text2html.olfsoftware.fr) to find out more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
 
 ## Source code installation
 
