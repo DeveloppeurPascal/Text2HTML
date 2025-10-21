@@ -1,3 +1,35 @@
+(* C2PP
+  ***************************************************************************
+
+  Text2HTML
+
+  Copyright 2022-2025 Patrick PREMARTIN under AGPL 3.0 license.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+  THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+  DEALINGS IN THE SOFTWARE.
+
+  ***************************************************************************
+
+  Author(s) :
+  Patrick PREMARTIN
+
+  Site :
+  https://text2html.olfsoftware.fr
+
+  Project site :
+  https://github.com/DeveloppeurPascal/Text2HTML
+
+  ***************************************************************************
+  File last update : 2025-10-16T10:43:07.914+02:00
+  Signature : f4ba86ce1c2738b17befbe86d673f22b94c1e275
+  ***************************************************************************
+*)
+
 unit fMain;
 
 interface
